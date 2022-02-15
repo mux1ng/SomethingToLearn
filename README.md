@@ -5,5 +5,5 @@
 
 
 # 免杀
-[FunctionStomping] <https://github.com/3rsh1/goFunctionStomping> <https://idov31.github.io/2022-01-28-function-stomping/>
+[FunctionStomping] <https://github.com/3rsh1/goFunctionStomping> | <https://idov31.github.io/2022-01-28-function-stomping/>
 
