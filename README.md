@@ -5,5 +5,5 @@
 
 
 # 免杀
-[FunctionStomping] <https://github.com/countercept/ModuleStomping> | <https://idov31.github.io/2022-01-28-function-stomping/> | <https://github.com/3rsh1/goFunctionStomping>
+[FunctionStomping] <https://idov31.github.io/2022-01-28-function-stomping/> | <https://github.com/3rsh1/goFunctionStomping>
 
