@@ -8,3 +8,6 @@
 [FunctionStomping] <https://idov31.github.io/2022-01-28-function-stomping/> | <https://github.com/3rsh1/goFunctionStomping>
 
 [大灰狼远控] <https://github.com/0xCuSO4/DHLYK>
+
+# 杂项
+[tmux使用] <https://cloud.tencent.com/developer/article/1683260>
