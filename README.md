@@ -1,5 +1,5 @@
 # 渗透测试
-[渗透中一些点的笔记] <https://github.com/pen4uin/pentest-note>
+[渗透中一些骚操作] <https://github.com/pen4uin/pentest-note>
 
 [比较全面的渗透笔记] <https://github.com/xiaoy-sec/Pentest_Note>
 
