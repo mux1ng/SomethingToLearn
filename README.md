@@ -10,6 +10,8 @@
 
 [JAVA漏洞分析] <https://github.com/pen4uin/java-security>
 
+[漏洞分析合集] <https://github.com/nbxiglk0/Note>
+
 
 # 免杀
 [FunctionStomping] <https://idov31.github.io/2022-01-28-function-stomping/> | <https://github.com/3rsh1/goFunctionStomping>
