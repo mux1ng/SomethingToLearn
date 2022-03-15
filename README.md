@@ -1,3 +1,8 @@
+# 渗透测试
+[渗透中一些点的笔记] <https://github.com/pen4uin/pentest-note>
+
+[比较全面的渗透笔记] <https://github.com/xiaoy-sec/Pentest_Note>
+
 # JAVA安全
 [JAVA代码审计文章合集] <https://www.cnblogs.com/r00tuser/p/10577571.html>
 
