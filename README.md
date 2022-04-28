@@ -18,5 +18,7 @@
 
 [大灰狼远控] <https://github.com/0xCuSO4/DHLYK>
 
+[重写CS Beacon] <https://github.com/mai1zhi2/SharpBeacon> | <https://github.com/DongHuangT1/Geacon>
+
 # 杂项
 [tmux使用] <https://cloud.tencent.com/developer/article/1683260>
