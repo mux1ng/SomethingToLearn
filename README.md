@@ -20,5 +20,7 @@
 
 [重写CS Beacon] <https://github.com/mai1zhi2/SharpBeacon> | <https://github.com/DongHuangT1/Geacon>
 
+[CobaltStrike Beacon各个功能点的实现] <https://cloud.tencent.com/developer/article/1838793>
+
 # 杂项
 [tmux使用] <https://cloud.tencent.com/developer/article/1683260>
